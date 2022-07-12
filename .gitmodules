@@ -3,15 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "pumilioR"]
-	path = pumilioR
-	url = https://github.com/ljvillanueva/pumilior
-	shallow = true
-	subdir = pumilioR
-	registered = true
-[submodule "soundecology"]
-	path = soundecology
-	url = https://github.com/ljvillanueva/soundecology
-	shallow = true
-	subdir = soundecology
-	registered = true
